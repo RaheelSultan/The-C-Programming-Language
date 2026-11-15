@@ -33,7 +33,7 @@ int celsius_to_fahr_v2(float lower, float upper, float step) {
     return 0;
 }
 
-int main() {
+int main(void) {
     float lower = 0;
     float upper = 200;
     float step = 16;
